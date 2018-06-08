@@ -1,0 +1,24 @@
+// Items
+
+item.ruby.name=Ruby
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_sword.name=Ruby Sword
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+// Blocks
+
+tile.ruby_block.name=Ruby Block
+tile.ruby_ore.name=Ruby Ore
+
+// Creative Tabs
+
+itemGroup.max_mod_items=Max Mod Items
+itemGroup.max_mod_blocks=Max Mod Blocks
+itemGroup.max_mod_tools=Max Mod Tools
+itemGroup.max_mod_combat=Max Mod Combat

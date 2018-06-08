@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "mm:ruby"
+    }
+  },
+  "result": {
+    "item": "mm:ruby_boots"
+  }
+}
